@@ -1,13 +1,19 @@
 = Setup
 include::_attributes.adoc[]
+include::include_vars.adoc[]
 
 
 Welcome to working with the CI with the guid of {guid}
 You can access it via the following command:
 
-{ssh_command}
+Your ssh command is {ssh_command}
 
-And passowrd {ssh_password}
+[source, java,subs="+macros,+attributes"]
+----
+ssh command is {ssh_command}
+----
+
+And password {ssh_password}
 
 
 [#prerequisite]
