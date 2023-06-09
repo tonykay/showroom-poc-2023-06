@@ -1,6 +1,15 @@
 = Setup
 include::_attributes.adoc[]
 
+
+Welcome to working with the CI with the guid of {guid}
+You can access it via the following command:
+
+{ssh_command}
+
+And passowrd {ssh_password}
+
+
 [#prerequisite]
 == Prerequisite CLI tools
 
