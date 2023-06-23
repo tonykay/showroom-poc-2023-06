@@ -2,7 +2,7 @@ runtime:
   cache_dir: ./.cache/antora
 
 site:
-  title: Template Tutorial
+  title: Showroom Poc Demo
   url: https://redhat-scholars.github.io/course-template
   start_page: template-tutorial::index.adoc
 
@@ -21,8 +21,9 @@ asciidoc:
 
 ui:
   bundle:
+    url: https://github.com/tonykay/demo-gpte-classroom-ui/tree/main/releases/download/v0.0.2/ui-bundle.zip
     # url: https://github.com/rhpds/nookbag-bundle/releases/download/v0.0.2/bundle.zip
-    url: https://github.com/redhat-developer-demos/rhd-tutorial-ui/releases/download/v0.1.9/ui-bundle.zip
+    # url: https://github.com/redhat-developer-demos/rhd-tutorial-ui/releases/download/v0.1.9/ui-bundle.zip
     snapshot: true
   supplemental_files:
     - path: ./supplemental-ui
