@@ -1,0 +1,5 @@
+:user: devops
+
+:ssh_user: devops
+:ssh_password: changeme
+:ssh_command: ssh devops@example.com
