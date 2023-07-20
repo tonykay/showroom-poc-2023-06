@@ -6,6 +6,7 @@
 
 * xref:030-github-container.adoc[3. GitHub Container]
 
+* xref:040-showroom-overview.adoc[4. Showroom Overview]
 
 /* * xref:01-setup.adoc[2. Setup] */
 /* ** xref:01-setup.adoc#prerequisite[Prerequisites] */
